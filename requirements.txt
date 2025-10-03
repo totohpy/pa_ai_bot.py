@@ -1,2 +1,6 @@
 streamlit
 openai
+langchain 
+langchain-community 
+faiss-cpu 
+sentence-transformers
